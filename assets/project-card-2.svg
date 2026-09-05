@@ -1,0 +1,17 @@
+<svg viewBox="0 0 380 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MetaData-Tool project card">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, Menlo, monospace; }
+      .sans { font-family: 'Inter', -apple-system, 'Segoe UI', sans-serif; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="378" height="158" rx="6" fill="#0d0d0d" stroke="#232323" stroke-width="1"/>
+  <rect x="1" y="1" width="4" height="158" fill="#c9915a"/>
+
+  <text x="28" y="46" class="sans" font-size="21" font-weight="600" fill="#ececea">MetaData-Tool</text>
+  <text x="28" y="76" class="sans" font-size="13" fill="#9a9a9a">Utility for inspecting and stripping</text>
+  <text x="28" y="94" class="sans" font-size="13" fill="#9a9a9a">file metadata.</text>
+
+  <text x="28" y="130" class="mono" font-size="11" fill="#6f6f6f" letter-spacing="1">PYTHON · CLI</text>
+  <text x="352" y="130" class="mono" font-size="11" fill="#6f6f6f" text-anchor="end">github.com/outwiles</text>
+</svg>
