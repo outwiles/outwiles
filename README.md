@@ -58,9 +58,13 @@ class Outwiles:
 <td><img src="assets/project-card-3.svg" alt="tg-selfbot — Telegram automation" width="100%"/></td>
 <td></td>
 </tr>
+  <tr>
+<td><img src="assets/project-card-4.svg" alt="DDOS Tool — Traffic Sender" width="100%"/></td>
+<td></td>
+</tr>
 </table>
 
-<sub>[Portfolio](https://github.com/outwiles/Portfolio) · [MetaData-Tool](https://github.com/outwiles/MetaData-Tool) · [tg-selfbot](https://github.com/outwiles/tg-selfbot)</sub>
+<sub>[Portfolio](https://github.com/outwiles/Portfolio) · [MetaData-Tool](https://github.com/outwiles/MetaData-Tool) · [tg-selfbot](https://github.com/outwiles/tg-selfbot) · [DDOS Tool] (https://github.com/outwiles/DDOS-TOOL)</sub>
 
 <br/>
 
