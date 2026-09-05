@@ -8,7 +8,7 @@
   <rect x="1" y="1" width="378" height="158" rx="6" fill="#0d0d0d" stroke="#232323" stroke-width="1"/>
   <rect x="1" y="1" width="4" height="158" fill="#c9915a"/>
 
-  <text x="28" y="46" class="sans" font-size="21" font-weight="600" fill="#ececea">DDOS layer</text>
+  <text x="28" y="46" class="sans" font-size="21" font-weight="600" fill="#ececea">DDOS Tool</text>
   <text x="28" y="76" class="sans" font-size="13" fill="#9a9a9a">Traffic sender to overload the </text>
   <text x="28" y="94" class="sans" font-size="13" fill="#9a9a9a">CPU and shut down service.</text>
 
