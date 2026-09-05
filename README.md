@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="150" valign="top">
-  <img src="PROFILE_PHOTO_URL" width="130" height="130" style="border-radius:6px;" alt="Aashu" />
+  <img src="https://github.com/outwiles.png" width="130" height="130" style="border-radius:6px;" alt="Aashu" />
 </td>
 <td valign="top">
 
